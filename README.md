@@ -2,4 +2,4 @@
 Corpus de mensajes presidenciales de Latinoamérica. 
 Todos los documentos se han compartido con fines académicos únicamente y bajo la licencia [Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)
 
-Si deseas contribuir comunícate con [Riva Quiroga](https://github.com/orgs/corpusenespanol/people/rivaquiroga) o [Silvia Gutiérrez](twitter.com/espejolento) [segutierrez arroba colmex.mx]
+Si deseas contribuir comunícate con [Riva Quiroga](https://twitter.com/rivaquiroga)[rpquiroga arroba uc.cl] o [Silvia Gutiérrez](twitter.com/espejolento) [segutierrez arroba colmex.mx]
