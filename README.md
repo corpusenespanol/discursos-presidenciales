@@ -4,5 +4,5 @@ Todos los documentos se han compartido con fines académicos únicamente y bajo 
 
 Si deseas contribuir comunícate con [Riva Quiroga](https://twitter.com/rivaquiroga) [rpquiroga arroba uc.cl] o [Silvia Gutiérrez](twitter.com/espejolento) [segutierrez arroba colmex.mx]
 
-[![DOI](https://zenodo.org/badge/143443132.svg)](https://zenodo.org/badge/latestdoi/143443132)
+[![DOI](https://zenodo.org/badge/143443132.svg)](https://zenodo.org/record/2547051#.XE9pc1z0mUk)
 
